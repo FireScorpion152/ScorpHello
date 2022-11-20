@@ -1,0 +1,7 @@
+a:link{
+    color: blue;text-decoration: none;
+}
+a:visited {color: pink;text-decoration: dotted;}
+a:hover{color: yellow;text-decoration: underline;}
+a:active{color: red;text-decoration: dashed;}
+input:hover{border: 2px solid green;}
